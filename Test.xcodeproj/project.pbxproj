@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		75D5F97B19ECC7150038A417 /* sub_hwa.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75D5F97A19ECC7150038A417 /* sub_hwa.cpp */; };
 		75FE5AF81A1BE47800B06093 /* vauvau.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75FE5AF61A1BE47800B06093 /* vauvau.cpp */; };
-		75FE5AFA1A1BF0AD00B06093 /* extended_euclid.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75FE5AF91A1BF0AD00B06093 /* extended_euclid.cpp */; };
 		75FE5AFC1A261E1F00B06093 /* diamond_ssm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75FE5AFB1A261E1F00B06093 /* diamond_ssm.cpp */; };
 /* End PBXBuildFile section */
 
@@ -29,7 +28,6 @@
 		75D5F97719ECC7150038A417 /* Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Test; sourceTree = BUILT_PRODUCTS_DIR; };
 		75D5F97A19ECC7150038A417 /* sub_hwa.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sub_hwa.cpp; sourceTree = "<group>"; };
 		75FE5AF61A1BE47800B06093 /* vauvau.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vauvau.cpp; sourceTree = "<group>"; };
-		75FE5AF91A1BF0AD00B06093 /* extended_euclid.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = extended_euclid.cpp; sourceTree = "<group>"; };
 		75FE5AFB1A261E1F00B06093 /* diamond_ssm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = diamond_ssm.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,7 +63,6 @@
 			children = (
 				75D5F97A19ECC7150038A417 /* sub_hwa.cpp */,
 				75FE5AF61A1BE47800B06093 /* vauvau.cpp */,
-				75FE5AF91A1BF0AD00B06093 /* extended_euclid.cpp */,
 				75FE5AFB1A261E1F00B06093 /* diamond_ssm.cpp */,
 			);
 			path = Test;
@@ -128,7 +125,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				75D5F97B19ECC7150038A417 /* sub_hwa.cpp in Sources */,
-				75FE5AFA1A1BF0AD00B06093 /* extended_euclid.cpp in Sources */,
 				75FE5AFC1A261E1F00B06093 /* diamond_ssm.cpp in Sources */,
 				75FE5AF81A1BE47800B06093 /* vauvau.cpp in Sources */,
 			);
