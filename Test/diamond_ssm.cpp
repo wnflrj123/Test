@@ -22,14 +22,12 @@ int main(){
 //        if(m%2==0){
             for(i=0; i<m; i++){
                 for(j=0; j<m-i; j++)
-                    printf("+");
+                    printf("-");
                 
             }
 //        }else{
 //            
 //        }
-        
-        printf("hh");
         
 //    }
 
